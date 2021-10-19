@@ -1,0 +1,14 @@
+{
+    "name": "dfgsgh",
+    "description": "sfgr",
+    "logo":"yur",
+    "keywords": ["kh"],
+    "env": {
+        "UUID": {
+            "description": "Xray UUID,随机生成uuid的网站-> (https://www.uuidgenerator.net/) ",
+            "required": true        
+        }
+    },
+    "repository": "https://github.com/daliwqer/syuw",
+    "stack": "container"
+}
